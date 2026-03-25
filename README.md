@@ -10,6 +10,9 @@ It supports authentication (password, token, MFA), team/channel discovery, real-
 
 It is used internally by Matterbridge (and was originally extracted from it).
 
+## Related projects
+
+- [Matterbridge](https://github.com/matterbridge-org/matterbridge/tree/master) - the universal chat bridge
 
 ## Acknowledgments
 
